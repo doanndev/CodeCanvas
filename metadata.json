@@ -1,0 +1,5 @@
+{
+  "name": "CodeCanvas",
+  "description": "A high-fidelity code screenshot generator that turns your source code into beautiful, shareable images with customizable themes and backgrounds.",
+  "requestFramePermissions": []
+}
