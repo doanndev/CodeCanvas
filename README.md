@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="1200" height="475" alt="CodeCanvas banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # CodeCanvas
 
 A small, beautiful utility for creating and exporting screenshot-style images of source code. Built with React + Vite, Monaco Editor, and Tailwind CSS. This repo contains the app source and a simple dev setup so you can run, modify, and deploy locally.
