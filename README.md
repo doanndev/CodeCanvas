@@ -2,6 +2,9 @@
 
 A small, beautiful utility for creating and exporting screenshot-style images of source code. Built with React + Vite, Monaco Editor, and Tailwind CSS. This repo contains the app source and a simple dev setup so you can run, modify, and deploy locally.
 
+## Demo
+Link: https://codecanvas.doann.dev/
+
 ## Features
 - Edit code in a Monaco-based editor with syntax highlighting
 - Export the editor area as a PNG image (uses html-to-image)
